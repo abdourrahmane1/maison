@@ -1,0 +1,23 @@
+.loco{
+    height: 100px;
+    background-color: rgb(228, 145, 145);
+    border: solid black 1px;
+    box-shadow: rgb(90, 39, 39) 10px 15px 10px;
+
+}
+.debut{
+    background-color: rgb(229, 164, 147)
+}
+body{
+    text-align: center;
+background-image: url("couleur.jpeg" );
+
+
+}
+.t1, .t2, .t3{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: rgb(236, 179, 179);
+    background-color: antiquewhite;
+}
+
